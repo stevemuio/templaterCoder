@@ -1,0 +1,18 @@
+{
+  "templater-obsidian:00 admin/00 01 templates/highlightToNew.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "M"
+    }
+  ],
+  "templater-obsidian:00.admin/00.01.templates/highlightToNew.md": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "M"
+    }
+  ]
+}
