@@ -1,4 +1,4 @@
-**Setting up obsidian for coding interviews or anything**
+**Setting up Obsidian for coding interviews or anything**
 These files are my Obsidian structure for extracting quotes form a longer text with a view to then using Grounded Theory or other coding system for qualitative analysis.  Strikes me it could be used for any longer text.
 
 NOTE!
